@@ -1,1 +1,0 @@
-include ':app', ':jtds-1.3.1', ':jxl-2.6.12', ':itextpdf-5.1.0'
