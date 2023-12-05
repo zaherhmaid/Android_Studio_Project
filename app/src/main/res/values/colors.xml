@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="Blue">#5574F7</color>
+    <color name="White">#FFFFFF</color>
+    <color name="Grey">#F7F7F7</color>
+    <color name="clearWhite">#AAFFFFFF</color>
+    <color name="DarkBlue">#000759</color>
+    <color name="DarkGrey">#51545F</color>
+    <color name="drawer_font">#51545F</color>
+    <color name="fbutton_color_turquoise">#1abc9c</color>
+    <color name="Black">#000000</color>
+
+</resources>
